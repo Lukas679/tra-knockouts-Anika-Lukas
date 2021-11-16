@@ -1,0 +1,4 @@
+PCR upstream_fwdprmr, upstream_revprmr on f_Plasmid	(traB_upstream)
+PCR downstream_fwdprmr, downstream_revprmr on f_Plasmid	(traB_downstream)
+Assemble traB_upstream, traB_downstream	(Gibson, plasmid_wo_traB)
+Transform plasmid_wo_traB	(Mach1, Amp)
